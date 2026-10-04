@@ -2,6 +2,8 @@
 
 A mobile-friendly tracker for managing a rotating committee: members, contribution rounds, payment status, payout order, and reminders. The interface supports English and Urdu, with English, Roman Urdu, and Urdu message templates.
 
+**Live app:** [kameti-tracker.vercel.app](https://kameti-tracker.vercel.app/)
+
 ## Features
 
 - Record paid, partial, and unpaid contributions, with cash or transfer methods and notes.
